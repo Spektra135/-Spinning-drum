@@ -1,0 +1,25 @@
+body {
+  background-color: #6addf2;
+}
+
+.circle {
+  width: 700px;
+  height: 700px;
+  border-radius: 9999px;
+  background-color: aqua;
+  background-image: url(http://polechudes.tv/images/baraban.png);
+  background-position: center;
+  background-size: cover;
+  transition: 2s;
+  transition-timing-function: ease-in-out;
+  margin-left: 700px;
+}
+
+.arrow {
+  width: 700px;
+  height: 70px;
+  position: relative;
+  left: 315px;
+  font-size: 70px;
+  margin-left: 700px;
+}
